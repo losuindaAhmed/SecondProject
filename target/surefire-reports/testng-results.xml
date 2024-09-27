@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-27T16:48:01 CEST" name="Suite" finished-at="2024-09-27T16:48:13 CEST" duration-ms="11879">
+    <groups>
+    </groups>
+    <test started-at="2024-09-27T16:48:01 CEST" name="Test" finished-at="2024-09-27T16:48:13 CEST" duration-ms="11879">
+      <class name="testcases.TC00_RegisterTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC00_RegisterTest@13c9d689]" started-at="2024-09-27T16:48:01 CEST" name="setup" finished-at="2024-09-27T16:48:07 CEST" duration-ms="6190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testhomepage()[pri:1, instance:testcases.TC00_RegisterTest@13c9d689]" started-at="2024-09-27T16:48:08 CEST" name="testhomepage" finished-at="2024-09-27T16:48:08 CEST" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testhomepage -->
+        <test-method signature="testregister()[pri:2, instance:testcases.TC00_RegisterTest@13c9d689]" started-at="2024-09-27T16:48:08 CEST" name="testregister" finished-at="2024-09-27T16:48:10 CEST" duration-ms="1641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testregister -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC00_RegisterTest@13c9d689]" started-at="2024-09-27T16:48:10 CEST" name="tearDown" finished-at="2024-09-27T16:48:13 CEST" duration-ms="3181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC00_RegisterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
